@@ -24,9 +24,8 @@ I´m Ji Hye or only Ji, Fullstack developer 🇰🇷 , and I live in 🇧🇷 S�
 <h3>Where to find Me</h3>
 <div>
   <a href="https://www.linkedin.com/in/jihye-koo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jihye83@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=c71610" target="_blank"></a>
 </div>
-
-
 
 
 
