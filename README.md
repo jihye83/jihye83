@@ -1,4 +1,6 @@
-### Hi there 👋
+### HELLO WORLD! 👋
+welcome to my page.
+I´m Ji. I´m 🇰🇷, and I live in 🇧🇷 São Paulo, Currently studying at Generation Brasil.
 
 
 <!--
