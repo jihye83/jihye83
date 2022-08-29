@@ -1,6 +1,6 @@
 # 👋 HELLO WORLD!!! 
 Welcome to my page!   
-I´m Ji.
+I´m Ji. :kr:
 
 
 <!--
