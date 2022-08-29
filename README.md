@@ -1,6 +1,6 @@
 # 👋 HELLO WORLD!!! 
 Welcome to my page!   
-I´m Ji. :kr:
+I´m Ji. I´m 🇰🇷, and I live in 🇧🇷 São Paulo, Currently studying at Generation Brasil.
 
 
 <!--
