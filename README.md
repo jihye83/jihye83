@@ -1,10 +1,12 @@
 ### HELLO WORLD! 👋
 welcome to my page.
-I´m Ji. I´m 🇰🇷, and I live in 🇧🇷 São Paulo, Currently studying at Generation Brasil.
+
 
 
 <!--
 **jihye83/jihye83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I´m Ji. I´m 🇰🇷, and I live in 🇧🇷 São Paulo, Currently studying at Generation Brasil.
 <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 </div>
