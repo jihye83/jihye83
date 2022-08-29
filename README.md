@@ -9,8 +9,9 @@ I´m Ji, Fullstack developer 🇰🇷 , and I live in 🇧🇷 São Paulo. Curre
 </div>
 
 <h3>My tech stack 📚</h3>
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 
+##
+<h3>Where to find Me</h3>
 
 
 
@@ -23,6 +24,8 @@ I´m Ji, Fullstack developer 🇰🇷 , and I live in 🇧🇷 São Paulo. Curre
  I´m 🇰🇷, and I live in 🇧🇷 São Paulo, Currently studying at Generation Brasil.
 <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 </div>
 Here are some ideas to get you started:
 
