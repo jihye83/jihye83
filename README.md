@@ -2,6 +2,20 @@
 Welcome to my page!   
 I´m Ji, Fullstack developer 🇰🇷 , and I live in 🇧🇷 São Paulo. Currently studying at Generation Brasil.
 
+<div align="center">
+  <a href="https://github.com/jihye83">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jihye83&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihye83&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<h3>My tech stack 📚</h3>
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+
+
+
+
+
+
 
 <!--
 **jihye83/jihye83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
