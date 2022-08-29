@@ -1,6 +1,7 @@
 # HELLO WORLD!!! 👋
-###Welcome to my page.
-###I´m Ji.
+Welcome to my page.
+
+I´m Ji.
 
 
 <!--
