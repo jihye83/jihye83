@@ -6,7 +6,7 @@ I´m Ji Hye or only Ji, Fullstack developer 🇰🇷 , and I live in 🇧🇷 S�
 <div align="center">
   <a href="https://github.com/jihye83">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=jihye83&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihye83&layout=compact&langs_count=7&theme=dark"/>
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihye83&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <h3>My tech stack 📚</h3>
