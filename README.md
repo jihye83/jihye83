@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> HELLO WORLD!!! 
 Welcome to my page!   
 <img src="https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif" width="50">
-I´m Ji Hye or only Ji, Fullstack developer 🇰🇷 , and I live in 🇧🇷 São Paulo. Currently studying at Generation Brasil.
+I´m Ji Hye or only Ji, BackEnd developer 🇰🇷 , and I live in 🇧🇷 São Paulo. Currently I am working with NodeJs and Java.
 
 <div align="center">
   <a href="https://github.com/jihye83">
