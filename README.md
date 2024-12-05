@@ -28,6 +28,12 @@ I´m Ji Hye or only Ji, BackEnd developer 🇰🇷 , and I live in 🇧🇷 São
 
 </div>
 
+<h3>Badges and Credentials</h3> 
+<div>
+<a href="https://www.credly.com/badges/cf75ddb8-6efc-4014-9533-dd6d315a4542"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=90 height=90/></a>
+<a href="https://www.credly.com/earner/earned/badge/0ac8a086-6a71-4212-ab30-e9cdb93bef14"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width=90 height=90/></a>
+</div>
+
 ##
 <h3>Where to find Me</h3>
 <div>
