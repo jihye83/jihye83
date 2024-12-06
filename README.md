@@ -28,7 +28,7 @@ I´m Ji Hye or only Ji, BackEnd developer 🇰🇷 , and I live in 🇧🇷 São
 
 </div>
 
-<h3>Badges and Credentials</h3> 
+<h3>Badges and Credentials🎖️</h3> 
 <div>
 <a href="https://www.credly.com/badges/cf75ddb8-6efc-4014-9533-dd6d315a4542"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=90 height=90/></a>
 <a href="https://learn.microsoft.com/pt-br/users/jihyekoo-1612/credentials/4c0b6603b3e5ab63?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width=90 height=90/></a>
